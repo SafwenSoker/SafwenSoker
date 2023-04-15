@@ -36,12 +36,13 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white&fbclid=IwAR2e16lnKoeK-P5U9avuv_GiapevnAgSY7EUFYSmIiMtBjOsRP_47F_2nzI">
   <img alt="HashiCorp Vault" src="https://img.shields.io/badge/-HashiCorp_Vault-777BB4?style=flat-square&logo=vault&logoColor=white" />
   <img alt="Keycloak" src="https://img.shields.io/badge/-Keycloak-2C2E35?style=flat-square&logo=keycloak&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-277A9F?style=flat-square&logo=helm&logoColor=white" />
