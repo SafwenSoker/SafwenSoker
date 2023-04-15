@@ -30,7 +30,6 @@
 
 ## 🔧 Things I code with
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/flutter-flutter-blue" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
