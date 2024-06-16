@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available here in github check them out.
 
-- 💬 Ask me about **Angular ,SpringBoot ,NodeJS ,Symfony, Laravel, Docker, Kubernetes, Helm, Ansible, HashiCorp Vault, TensorFlow**
+- 💬 Ask me about **Angular, SpringBoot, NodeJS, Symfony, Golang, Python, Laravel, Docker, Kubernetes, Helm, Ansible, Vault, Terraform, TensorFlow**
 
 - 📫 How to reach me **safwensoker1@gmail.com** or **safwen.soker@esprit.tn**
 
